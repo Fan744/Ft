@@ -4,7 +4,7 @@ import json
 import os
 
 # === BOT TOKEN ===
-BOT_TOKEN = "TOKEN"
+BOT_TOKEN = "8369100760:AAEEkuwbZz0eOghLboKeP1qN2l9tJd0OdwE"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # === ADMIN USER ID ===
